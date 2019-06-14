@@ -7,3 +7,4 @@
 * [sass入门分享](https://github.com/ChangbaFE/presentation/tree/master/static_ppt/sass) by 张叶
 * [有意思的HTTP](https://github.com/CongratulateWE/NoteBook/issues/7#issue-403103844) by 王江波
 * [PHP中的数组](https://github.com/ChangbaFE/presentation/tree/master/static_ppt/array_in_php) by wangjunpeng
+* [唱歌分一亿之动画](https://ppt.baomitu.com/p/a16cd05b) by 鄢敏
